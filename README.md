@@ -5,7 +5,7 @@
 
 ## I'm a Student!!
 
-- 🔭 I'm currently studying Software Engineering at Univerity of Valladolid
+- 🔭 I'm currently studying Software Engineering at University of Valladolid
 - 🌱 I’m currently learning Mobile Development, specialised in Android with Kotlin
 - 🥅 2022 Goals: Finish my degree and launch my own app
 - 📫 How to reach me: <gonzalocalvosanz@gmail.com>
