@@ -1,7 +1,7 @@
 ### Hi there, I'm Gonzalo - aka [GonzaCS] 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Gonza_cs175?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGonza_csq75&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Gonza_cs175?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGonza_csq75&screen_name=Gonza_cs175)
 
 ## I'm a Student!!
 
