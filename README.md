@@ -41,6 +41,9 @@
 [![IntelliJ](https://img.shields.io/badge/IntelliJ_idea-blue?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=101010)]()
 
 <br />
+
+## Contact me:
+[![Email](https://img.shields.io/badge/gonzalocalvosanz@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gonzalocalvosanz@gmail.com)
 <br />
 
 ### My Stats:
