@@ -14,8 +14,6 @@
 ### Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-@Gonza_cs175-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Gonza_cs175)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gonzalo_Calvo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gonzalo-calvo-sanz)
-
-
 <br />
 
 ### Languages and Tools:
